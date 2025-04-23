@@ -1,6 +1,6 @@
 import React from "react";
 import NavBarMain from "./components/navbar/NavBarMain";
-import HeroMain from "./components/hero/heroMain";
+import HeroMain from "./components/hero/HeroMain";
 import SubHero from "./components/hero/SubHero";
 import AboutMeMain from "./components/about/AboutMeMain";
 import SkillsMain from "./components/skills/SkillsMain";
