@@ -49,7 +49,7 @@ const works = [
 
 const ProjectsMain = () => {
   return (
-  <div id="works" className="max-w-[1200px] mx-auto px-4 pt-1 ">
+  <div id="works" className="max-w-[1300px] mx-auto px-4 pt-1 ">
     <motion.div
     variants={fadeIn('up', 0.2)}
     initial="hidden"
